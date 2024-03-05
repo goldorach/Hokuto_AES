@@ -39,7 +39,8 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\extras\demo_suite\devic
    
 
 This command will output various details about your GPU, including its model, CUDA cores, memory, and more. For example, a device query output might look like this:
-
+````
+```
   Device 0: "NVIDIA GeForce RTX 4090 Laptop GPU"
   CUDA Driver Version / Runtime Version          12.4 / 11.8
   CUDA Capability Major/Minor version number:    8.9
@@ -60,7 +61,8 @@ This command will output various details about your GPU, including its model, CU
   Warp size:                                     32
   Maximum number of threads per multiprocessor:  1536
   Maximum number of threads per block:           1024
-
+```
+````
 3. Calculate the `n` Value: 
 
 The value of `n` is determined by the number of Streaming Multiprocessors (SMs) 
