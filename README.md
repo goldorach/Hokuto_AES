@@ -121,3 +121,7 @@ Building and Running the Program
 - Efficiency: While my program contains some inefficiencies, 
 it embodies my best effort. I see myself more as a random Ninja than a programmer.
 
+
+
+![debug_02](https://github.com/goldorach/Hokuto_AES/assets/39637834/13b5c772-3ea6-4dad-b2bb-efe5a5a007a4)
+![debug_01](https://github.com/goldorach/Hokuto_AES/assets/39637834/ad81f78c-c8b7-40c0-8f87-a9704e9f416c)
